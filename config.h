@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-char font[] = "terminus-font";
+char font[] = "-*-terminus-medium-r-*-*-14-*-*-*-*-*-*-*";
 int borderpx = 2;
 
 /*
