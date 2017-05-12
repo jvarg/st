@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-char font[] = "-*-terminus-medium-r-*-*-14-*-*-*-*-*-*-*";
+char font[] = "Terminus:pixelsize=14:antialias=true:autohint=true";
 int borderpx = 2;
 
 /*
@@ -119,7 +119,7 @@ const char *colorname[] = {
 unsigned int defaultfg = 7;
 unsigned int defaultbg = 0;
 unsigned int defaultcs = 12;
-unsigned int defaultrcs = 12;
+unsigned int defaultrcs = 9;
 
 /*
  * Default shape of cursor
